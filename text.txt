@@ -1,0 +1,6 @@
+This code uses a Hash table to create code to easily find data without having to loop though a list or stack or another
+data structure. Hash tables turns an item from a key into a Product ID, making it so it has an O(1) complexity.
+I had some trouble implementing a print function but I got help from looking up stuff online and looking at past
+assignments. I think Hash tables would be really good for a lot of applications, like for a website to retrieve
+user Id like their username or email. It would also be good in any data system with extreme large amount of objects
+to quickly recieve something. 
